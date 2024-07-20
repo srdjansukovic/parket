@@ -1,0 +1,2 @@
+polars==1.2.1
+pyinstaller==6.9.0
